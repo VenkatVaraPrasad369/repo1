@@ -1,0 +1,5 @@
+a new line added to the text file
+
+second line is added
+
+Third line was added
